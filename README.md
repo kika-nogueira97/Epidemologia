@@ -6,7 +6,7 @@ Throughout this project, some notebooks were developed in order to study, throug
 
 The dataset used is part of a study carried out by [Imperial College London](https://github.com/ImperialCollegeLondon/covid19model/blob/master/Italy/data/dpc-covid19-ita-regioni.csv).
 
-Throughout the development of the work, this dataset has undergone some changes that can be consulted in the folder [Dataset](https://https://github.com/kika-nogueira97/Epidemologia/tree/master/Projeto_Italy/Dataset).
+Throughout the development of the work, this dataset has undergone some changes that can be consulted in the folder [Dataset](https://github.com/kika-nogueira97/Epidemologia/tree/master/Projeto_Italy/Dataset).
 
 ## Notebooks
 
@@ -70,3 +70,11 @@ To finish the work, a gif was developed capable of demonstrating the daily growt
 
 ![gif](https://github.com/kika-nogueira97/Epidemologia/blob/master/Projeto_Italy/Gif/Number%20of%20cases%20per%20region.gif)
 
+## Work made by
+
+Francisca Nogueira A81590 (Biomedical Engineering student in the Master of Medical Informatics, at the University of Minho)
+
+
+## Date
+
+24/05/2020
