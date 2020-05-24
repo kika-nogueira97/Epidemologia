@@ -50,8 +50,7 @@ With the equivalence of values ​​in numerous criteria, between Piemonte and 
 
 As Lombardia and Piemonte were in the first and second place in the [Top 5 of regions with the highest number of cases](https://github.com/kika-nogueira97/Epidemologia/blob/master/Projeto_Italy/Imagens/Top5_more_cases.png), we sought to understand the differences between these two regions, relative to the place of recovery/hospitalization.
 
-![lombardia](https://github.com/kika-nogueira97/Epidemologia/blob/master/Projeto_Italy/Imagens/comparation_lombardia_piemonte.png
-
+![lombardia](https://github.com/kika-nogueira97/Epidemologia/blob/master/Projeto_Italy/Imagens/comparation_lombardia_piemonte.png)
 
 ## Forecasting models
 
